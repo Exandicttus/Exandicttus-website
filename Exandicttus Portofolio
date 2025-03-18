@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Muhammad Rozaq Herlino D</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
+          integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo">Muhammad Rozaq Herlino D</a>
+
+        <i class="fa-solid fa-bars menu-icon"></i>
+
+        <nav class="navbar">
+            <a href="#home" class="active">Home</a>
+            <a href="#service">Service</a>
+            <a href="#skill">Skills</a>
+            <a href="#education">Education</a>
+            <a href="#experience">Experience</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="home" id="home">
+        <div class="home-img">
+            <img src="/assets/image/img1.png" alt="Profile Image">
+        </div>
+        <div class="home-content">
+            <h1>Hi, It's <span>Lino</span></h1>
+            <h3 class="typing-text">I'm a Designer<span></span></h3>
+            <p>Hello world! I am Lino, a student of Nusaputera 1 Vocational High School majoring in Multimedia, currently studying the competence of the Multimedia field which consists of Art, Video, Photography, Printing Graphic Design, and many others. This portal contains the results of my work while studying at SMK Nusaputera 1. Get interesting things on this page, what competencies I got. I got interesting experiences while studying here, friends who always support, and teachers who always guide well. The environment and facilities are very adequate to foster my creativity in making work that is worthy of publication.</p>
+            <div class="social-icon">
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+                <a href="#"><i class="fa-brands fa-telegram"></i></a>
+            </div>
+
+            <a href="a" class="btn">Hire Me</a>
+        </div>
+    </section>
+
+    <script src="/assets/js/script.js"></script>
+</body>
+</html>
